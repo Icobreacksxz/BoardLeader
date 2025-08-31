@@ -8,4 +8,8 @@
 
 -Added Anti Client
 
+-NITRO HUB
+
+-AutoDownload NITRO Hub
+
 -More To Come!!!!
