@@ -12,4 +12,6 @@
 
 -AutoDownload NITRO Hub
 
+-Fixed Voice Commands Toggle
+
 -More To Come!!!!
