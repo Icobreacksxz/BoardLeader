@@ -1,1 +1,6 @@
-Added player spoofing 
+-Added Avatar Spoofing
+-Added Profile Spoofing
+-Glitch Out All
+-Fixed Crash Lobby Button
+-Added Anti Client
+-More To Come!!!!
