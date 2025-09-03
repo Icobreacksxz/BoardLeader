@@ -1,17 +1,15 @@
--Added Avatar Spoofing
+- Customizable Bodylog
 
--Added Profile Spoofing
+- Customizable Menu Colors
 
--Glitch Out All
+- Fixed Invincibility Toggle
 
--Fixed Crash Lobby Button
+- More Anticheat detectors
 
--Added Anti Client
+- WIP Trash Player
 
--NITRO HUB
+- Lag Detector
 
--AutoDownload NITRO Hub
+- Unbreakable Grip
 
--Fixed Voice Commands Toggle
-
--More To Come!!!!
+- Improved Constrain Player
