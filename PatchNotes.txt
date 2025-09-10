@@ -4,6 +4,8 @@
 
 - Save cosmetics too with saving players personalities
 
+- Fixed A Lot of Lag
+
 - Max Prop Limit (0 for off)
 
 - Fixed Despawn Timer
