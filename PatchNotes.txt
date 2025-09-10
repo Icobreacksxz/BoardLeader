@@ -1,15 +1,11 @@
-- Customizable Bodylog
+- Replaced old spawn tracking system with Network Entities for no lag
 
-- Customizable Menu Colors
+- Made offset detector less sensitive
 
-- Fixed Invincibility Toggle
+- Save cosmetics too with saving players personalities
 
-- More Anticheat detectors
+- Max Prop Limit (0 for off)
 
-- WIP Trash Player
+- Fixed Despawn Timer
 
-- Lag Detector
-
-- Unbreakable Grip
-
-- Improved Constrain Player
+- Private Lobbies Menu (Join Private Lobbies)
