@@ -1,13 +1,21 @@
-- Replaced old spawn tracking system with Network Entities for no lag
+- Fixed lag by removing bodylog preview
 
-- Made offset detector less sensitive
+- Fixed trash players
 
-- Save cosmetics too with saving players personalities
+- Manually flag sus players
 
-- Fixed A Lot of Lag
+- More sus player Info
 
-- Max Prop Limit (0 for off)
+- Save all settings to NITROSettings
 
-- Fixed Despawn Timer
+- Fix change default avatar
 
-- Private Lobbies Menu (Join Private Lobbies)
+- Made player constraining use net entities for more peformance
+
+- Changed despawn time bonemenu slider
+
+- Made NITROHub not download everytime you open the game
+
+- Prop magnet (playerlist Menu) flings all props to the selected player on a toggleable loop
+
+- Save evidence to folder
