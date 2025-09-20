@@ -1,21 +1,29 @@
-- Fixed lag by removing bodylog preview
+- Unlock all cosmetics
 
-- Fixed trash players
+- Buy all cosmetics
 
-- Manually flag sus players
+- Complete all fusion achivements
 
-- More sus player Info
+- Unlock all BONELAB unlockables
 
-- Save all settings to NITROSettings
+- Fix trash player sync and magnet sync
 
-- Fix change default avatar
+- Scale other players (synced)
 
-- Made player constraining use net entities for more peformance
+- Remote Server Control (Do shit to servers without joining)
 
-- Changed despawn time bonemenu slider
+- Custom Bodylog Toggle
 
-- Made NITROHub not download everytime you open the game
+- UnRedact all
 
-- Prop magnet (playerlist Menu) flings all props to the selected player on a toggleable loop
+- Crash remote lobby in All Players Page
 
-- Save evidence to folder
+- Player Communication
+
+- Hide avatar from others
+
+- Dynamically Updating Whitelist
+
+- Better constraining
+
+- Corrupted File use default
