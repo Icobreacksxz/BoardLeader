@@ -1,1 +1,3 @@
-STREAMLINE 0.0.2 Released!
+STREAMLINE 0.0.3 Hotfix Released!
+
+there was an issue where no players would spawn in so thats fixed.
