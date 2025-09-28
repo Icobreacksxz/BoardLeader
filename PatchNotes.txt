@@ -1,1 +1,29 @@
-- Streamline Release, Have Fun!
+- Remote Players, Go to lobby browser, click on player, player actions.
+
+- Silent Join Toggle
+
+- Avatar Visibility Toggle
+
+- Change Steam Username
+
+- Disable Knockout when godmode on
+
+- Private Lobby Browser
+
+- Fixed Ban And Kick Buttons Being Removed
+
+- Crash Lobby Button
+
+- Personality Presets
+
+- More Player Actions
+
+- Unlock Crates, Unredact, Fusion SDK complete all buttons
+
+- Custom Bodylog
+
+- Fixed Constraining
+
+- Invis Toggle
+
+- More features not listed-
